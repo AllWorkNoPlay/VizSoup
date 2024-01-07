@@ -13,7 +13,7 @@ mytables = []
 
 # Find all tables with id containing 'signals' or has class 'signal-table'
 vol_signal_tables = driver.find_elements(By.CSS_SELECTOR, 'table[id*="signals"]')
-pattern_signal_tables = driver.find_elements(By.CSS_SELECTOR, 'table.signal-table')
+pattern_signal_tables = driver.find_elements(By.CSS_SELECTOR, 'table.hp_signal-table')
 
 # verify that we found 2 volume signal tables and 2 pattern signal tables
 assert len(vol_signal_tables) == 2, "Expected 2 tables, found " + str(len(vol_signal_tables)) + " tables"
@@ -45,8 +45,9 @@ for table_type, tables in table_types_and_tables.items():
             extract_and_append_table_data(table, table_type)
         else:
             # select the mytables entry with the same type as the current table
-            mytable = next((item for item in mytables if item["type"] == table_type), None)
-            table["data"].extend(mytable["data"])
+            typetable = next((item for item in mytables if item["type"] == table_type), None)
+            data_rows = table.find_elements(By.TAG_NAME, 'tr')[1:]
+            data_rows.extend(typetable["data"])
  
 for table in mytables:
     filename = table["type"] + '_' + datetime.datetime.now().strftime("%Y%m%d_%H%M%S") + ".json"

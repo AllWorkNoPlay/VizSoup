@@ -1,0 +1,67 @@
+{
+    "type": "pattern_signal",
+    "headers": [
+        "Tickers",
+        "Signal"
+    ],
+    "data": [
+        [
+            [
+                "ULTR",
+                "BACA",
+                "ALVR",
+                "FINS",
+                "TL Supp."
+            ],
+            [
+                "BILZ",
+                "GLU",
+                "FDS",
+                "NAPA",
+                "TL Resist."
+            ],
+            [
+                "BIL",
+                "BILS",
+                "CLIP",
+                "CVEO",
+                "Horizontal S/R"
+            ],
+            [
+                "GBDC",
+                "TRGP",
+                "JAAA",
+                "ADAG",
+                "Wedge Up"
+            ],
+            [
+                "TTP",
+                "KB",
+                "DK",
+                "GLRE",
+                "Wedge"
+            ],
+            [
+                "ECNS",
+                "BOXL",
+                "KFFB",
+                "FLHK",
+                "Wedge Down"
+            ],
+            [
+                "MINT",
+                "DBJP",
+                "OST",
+                "SNEX",
+                "Triangle Asc."
+            ],
+            [
+                "CCOR",
+                "ICCC",
+                "TSBX",
+                "SPCX",
+                "Triangle Desc."
+            ]
+        ]
+    ]
+}
