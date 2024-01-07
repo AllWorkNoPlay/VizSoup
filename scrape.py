@@ -1,14 +1,22 @@
 import json
 import os
-from trade_signal import TradeSignal
-
 import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import datetime
+from trade_signal import TradeSignal
+from selenium.webdriver.chrome.options import Options
 
-# Create a new Chrome browser instance
-driver = webdriver.Chrome()
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--window-size=1920,1080")  # Set the window size
+chrome_options.add_argument("--start-maximized")  # Start maximized
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+
+# Add a user agent string
+chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
+
+driver = webdriver.Chrome(options=chrome_options)
 driver.get("https://finviz.com/")
 driver.implicitly_wait(1)
 
