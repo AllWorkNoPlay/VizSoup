@@ -1,0 +1,306 @@
+[
+    {
+        "Change": "91.15%",
+        "Last": "10.80",
+        "Signal": "Top Gainers",
+        "Ticker": "RCAC",
+        "Volume": "750.09K",
+        "type": "volume"
+    },
+    {
+        "Change": "64.85%",
+        "Last": "4.22",
+        "Signal": "Top Gainers",
+        "Ticker": "ZCAR",
+        "Volume": "11.06M",
+        "type": "volume"
+    },
+    {
+        "Change": "58.38%",
+        "Last": "2.74",
+        "Signal": "Top Gainers",
+        "Ticker": "AIMD",
+        "Volume": "30.13M",
+        "type": "volume"
+    },
+    {
+        "Change": "54.82%",
+        "Last": "2.57",
+        "Signal": "Top Gainers",
+        "Ticker": "BNZI",
+        "Volume": "71.51M",
+        "type": "volume"
+    },
+    {
+        "Change": "49.26%",
+        "Last": "2.03",
+        "Signal": "Top Gainers",
+        "Ticker": "SGD",
+        "Volume": "48.94M",
+        "type": "volume"
+    },
+    {
+        "Change": "31.45%",
+        "Last": "3.01",
+        "Signal": "Top Gainers",
+        "Ticker": "SWVL",
+        "Volume": "3.05M",
+        "type": "volume"
+    },
+    {
+        "Change": "15.81%",
+        "Last": "12.01",
+        "Signal": "New High",
+        "Ticker": "DECA",
+        "Volume": "17.53K",
+        "type": "volume"
+    },
+    {
+        "Change": "21.57%",
+        "Last": "1.24",
+        "Signal": "New High",
+        "Ticker": "RWLK",
+        "Volume": "1.41M",
+        "type": "volume"
+    },
+    {
+        "Change": "18.81%",
+        "Last": "21.98",
+        "Signal": "New High",
+        "Ticker": "SSNT",
+        "Volume": "769.69K",
+        "type": "volume"
+    },
+    {
+        "Change": "10.72%",
+        "Last": "7.54",
+        "Signal": "New High",
+        "Ticker": "VTEX",
+        "Volume": "1.37M",
+        "type": "volume"
+    },
+    {
+        "Change": "6.22%",
+        "Last": "93.73",
+        "Signal": "Overbought",
+        "Ticker": "CYTK",
+        "Volume": "6.33M",
+        "type": "volume"
+    },
+    {
+        "Change": "31.45%",
+        "Last": "3.01",
+        "Signal": "Overbought",
+        "Ticker": "SWVL",
+        "Volume": "3.05M",
+        "type": "volume"
+    },
+    {
+        "Change": "58.38%",
+        "Last": "2.74",
+        "Signal": "Unusual Volume",
+        "Ticker": "AIMD",
+        "Volume": "30.13M",
+        "type": "volume"
+    },
+    {
+        "Change": "54.82%",
+        "Last": "2.57",
+        "Signal": "Unusual Volume",
+        "Ticker": "BNZI",
+        "Volume": "71.51M",
+        "type": "volume"
+    },
+    {
+        "Change": "64.85%",
+        "Last": "4.22",
+        "Signal": "Unusual Volume",
+        "Ticker": "ZCAR",
+        "Volume": "11.06M",
+        "type": "volume"
+    },
+    {
+        "Change": "-0.26%",
+        "Last": "37.44",
+        "Signal": "Unusual Volume",
+        "Ticker": "XHYI",
+        "Volume": "125.96K",
+        "type": "volume"
+    },
+    {
+        "Change": "0.06%",
+        "Last": "48.73",
+        "Signal": "Upgrades",
+        "Ticker": "OZK",
+        "Volume": "1.02M",
+        "type": "volume"
+    },
+    {
+        "Change": "-19.87%",
+        "Last": "6.21",
+        "Signal": "Earnings Before",
+        "Ticker": "ANGO",
+        "Volume": "2.42M",
+        "type": "volume"
+    },
+    {
+        "Change": "-1.73%",
+        "Last": "28.46",
+        "Signal": "Insider Buying",
+        "Ticker": "STAA",
+        "Volume": "1.05M",
+        "type": "volume"
+    },
+    {
+        "Change": "-51.39%",
+        "Last": "4.38",
+        "Signal": "Top Losers",
+        "Ticker": "DOGZ",
+        "Volume": "1.46M",
+        "type": "volume"
+    },
+    {
+        "Change": "-49.52%",
+        "Last": "1.05",
+        "Signal": "Top Losers",
+        "Ticker": "MESO",
+        "Volume": "246.36K",
+        "type": "volume"
+    },
+    {
+        "Change": "-40.63%",
+        "Last": "2.25",
+        "Signal": "Top Losers",
+        "Ticker": "APLT",
+        "Volume": "6.78M",
+        "type": "volume"
+    },
+    {
+        "Change": "-29.00%",
+        "Last": "3.55",
+        "Signal": "Top Losers",
+        "Ticker": "MPW",
+        "Volume": "153.55M",
+        "type": "volume"
+    },
+    {
+        "Change": "-28.56%",
+        "Last": "8.63",
+        "Signal": "Top Losers",
+        "Ticker": "AGL",
+        "Volume": "36.48M",
+        "type": "volume"
+    },
+    {
+        "Change": "-24.89%",
+        "Last": "12.25",
+        "Signal": "Top Losers",
+        "Ticker": "ANVS",
+        "Volume": "1.00M",
+        "type": "volume"
+    },
+    {
+        "Change": "-24.48%",
+        "Last": "2.19",
+        "Signal": "Top Losers",
+        "Ticker": "SFWL",
+        "Volume": "2.31M",
+        "type": "volume"
+    },
+    {
+        "Change": "-49.52%",
+        "Last": "1.05",
+        "Signal": "New Low",
+        "Ticker": "MESO",
+        "Volume": "246.36K",
+        "type": "volume"
+    },
+    {
+        "Change": "-24.03%",
+        "Last": "0.08",
+        "Signal": "New Low",
+        "Ticker": "NMRD",
+        "Volume": "492.00K",
+        "type": "volume"
+    },
+    {
+        "Change": "-15.85%",
+        "Last": "0.69",
+        "Signal": "New Low",
+        "Ticker": "HALL",
+        "Volume": "88.65K",
+        "type": "volume"
+    },
+    {
+        "Change": "-28.56%",
+        "Last": "8.63",
+        "Signal": "New Low",
+        "Ticker": "AGL",
+        "Volume": "36.48M",
+        "type": "volume"
+    },
+    {
+        "Change": "-8.57%",
+        "Last": "1.60",
+        "Signal": "Oversold",
+        "Ticker": "AIRE",
+        "Volume": "444.29K",
+        "type": "volume"
+    },
+    {
+        "Change": "-7.98%",
+        "Last": "1.50",
+        "Signal": "Oversold",
+        "Ticker": "HYW",
+        "Volume": "17.54K",
+        "type": "volume"
+    },
+    {
+        "Change": "-51.39%",
+        "Last": "4.38",
+        "Signal": "Most Volatile",
+        "Ticker": "DOGZ",
+        "Volume": "1.46M",
+        "type": "volume"
+    },
+    {
+        "Change": "64.85%",
+        "Last": "4.22",
+        "Signal": "Most Volatile",
+        "Ticker": "ZCAR",
+        "Volume": "11.06M",
+        "type": "volume"
+    },
+    {
+        "Change": "-12.50%",
+        "Last": "0.01",
+        "Signal": "Most Active",
+        "Ticker": "BETS",
+        "Volume": "704.00M",
+        "type": "volume"
+    },
+    {
+        "Change": "-2.00%",
+        "Last": "0.89",
+        "Signal": "Most Active",
+        "Ticker": "OPK",
+        "Volume": "159.81M",
+        "type": "volume"
+    },
+    {
+        "Change": "-28.56%",
+        "Last": "8.63",
+        "Signal": "Downgrades",
+        "Ticker": "AGL",
+        "Volume": "36.48M",
+        "type": "volume"
+    },
+    {
+        "Change": "0.72%",
+        "Last": "23.67",
+        "Signal": "Insider Selling",
+        "Ticker": "S",
+        "Volume": "5.76M",
+        "type": "volume"
+    }
+]

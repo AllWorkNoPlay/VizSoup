@@ -1,0 +1,322 @@
+[
+    {
+        "Signal": "TL Supp.",
+        "Tickers": "ULTR",
+        "type": "pattern"
+    },
+    {
+        "Signal": "TL Supp.",
+        "Tickers": "BACA",
+        "type": "pattern"
+    },
+    {
+        "Signal": "TL Supp.",
+        "Tickers": "ALVR",
+        "type": "pattern"
+    },
+    {
+        "Signal": "TL Supp.",
+        "Tickers": "FINS",
+        "type": "pattern"
+    },
+    {
+        "Signal": "TL Resist.",
+        "Tickers": "BILZ",
+        "type": "pattern"
+    },
+    {
+        "Signal": "TL Resist.",
+        "Tickers": "GLU",
+        "type": "pattern"
+    },
+    {
+        "Signal": "TL Resist.",
+        "Tickers": "FDS",
+        "type": "pattern"
+    },
+    {
+        "Signal": "TL Resist.",
+        "Tickers": "NAPA",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Horizontal S/R",
+        "Tickers": "BIL",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Horizontal S/R",
+        "Tickers": "BILS",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Horizontal S/R",
+        "Tickers": "CLIP",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Horizontal S/R",
+        "Tickers": "CVEO",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Up",
+        "Tickers": "GBDC",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Up",
+        "Tickers": "TRGP",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Up",
+        "Tickers": "JAAA",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Up",
+        "Tickers": "ADAG",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge",
+        "Tickers": "TTP",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge",
+        "Tickers": "KB",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge",
+        "Tickers": "DK",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge",
+        "Tickers": "GLRE",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Down",
+        "Tickers": "ECNS",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Down",
+        "Tickers": "BOXL",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Down",
+        "Tickers": "KFFB",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Wedge Down",
+        "Tickers": "FLHK",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Asc.",
+        "Tickers": "MINT",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Asc.",
+        "Tickers": "DBJP",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Asc.",
+        "Tickers": "OST",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Asc.",
+        "Tickers": "SNEX",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Desc.",
+        "Tickers": "CCOR",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Desc.",
+        "Tickers": "ICCC",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Desc.",
+        "Tickers": "TSBX",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Triangle Desc.",
+        "Tickers": "SPCX",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Up",
+        "Tickers": "AMLP",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Up",
+        "Tickers": "AMJ",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Up",
+        "Tickers": "BILZ",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Up",
+        "Tickers": "CLOI",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel",
+        "Tickers": "TRX",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel",
+        "Tickers": "PRPH",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel",
+        "Tickers": "NVDA",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel",
+        "Tickers": "XONE",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Down",
+        "Tickers": "RDI",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Down",
+        "Tickers": "PRVA",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Down",
+        "Tickers": "PVI",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Channel Down",
+        "Tickers": "MHUA",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Top",
+        "Tickers": "CVI",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Top",
+        "Tickers": "IBHE",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Top",
+        "Tickers": "ESNT",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Top",
+        "Tickers": "NTZG",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Top",
+        "Tickers": "MFIC",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Top",
+        "Tickers": "WRAP",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Top",
+        "Tickers": "STEP",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Top",
+        "Tickers": "EVI",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Bottom",
+        "Tickers": "NBSE",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Bottom",
+        "Tickers": "CWT",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Bottom",
+        "Tickers": "FGH",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Double Bottom",
+        "Tickers": "HFBL",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Bottom",
+        "Tickers": "PRPH",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Bottom",
+        "Tickers": "VGSH",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Bottom",
+        "Tickers": "ONVO",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Multiple Bottom",
+        "Tickers": "KOLD",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Head&Shoulders",
+        "Tickers": "OSIS",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Head&Shoulders",
+        "Tickers": "PGEN",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Head&Shoulders",
+        "Tickers": "SHCO",
+        "type": "pattern"
+    },
+    {
+        "Signal": "Head&Shoulders",
+        "Tickers": "NAT",
+        "type": "pattern"
+    }
+]
